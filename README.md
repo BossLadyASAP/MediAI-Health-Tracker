@@ -25,4 +25,3 @@ See `client/README.md` and `server/README.md` for setup instructions.
 
 ---
 _All AI/model responses are mocked for now._
-
